@@ -5,16 +5,6 @@
 Sneaker Ship is an Android application that serves as a Sneaker Shopping Cart. It is built using the
 MVVM architecture pattern and implemented in Kotlin.
 
-## Screenshots
-
-<img src="https://github.com/imboss712/Sneakers_Ship/blob/master/screenshots/home.png" width="250" height="500">
-
-<img src="https://github.com/imboss712/Sneakers_Ship/blob/master/screenshots/home_search.png" width="250" height="500">
-
-<img src="https://github.com/imboss712/Sneakers_Ship/blob/master/screenshots/sneaker_detail.png" width="250" height="500">
-
-<img src="https://github.com/imboss712/Sneakers_Ship/blob/master/screenshots/sneaker_cart.png" width="250" height="500">
-
 ## Features
 
 #### Home Page:
@@ -79,3 +69,17 @@ I have used Flow and LiveData to receive updates whenever there are changes.
 Additionally, I integrated RoomDB to persistently store cart items in the database.
 This ensures that if a user relaunches the app, their cart items will be retrieved from the
 database.
+
+## Screenshots
+
+<img src="https://github.com/imboss712/Sneakers_Ship/blob/master/screenshots/home.png" width="250" height="500">
+
+<img src="https://github.com/imboss712/Sneakers_Ship/blob/master/screenshots/home_search.png" width="250" height="500">
+
+<img src="https://github.com/imboss712/Sneakers_Ship/blob/master/screenshots/sneaker_detail.png" width="250" height="500">
+
+<img src="https://github.com/imboss712/Sneakers_Ship/blob/master/screenshots/sneaker_cart.png" width="250" height="500">
+
+<img src="https://github.com/imboss712/Sneakers_Ship/blob/master/screenshots/home_dark.png" width="250" height="500">
+
+<img src="https://github.com/imboss712/Sneakers_Ship/blob/master/screenshots/cart_dark.png" width="250" height="500">
