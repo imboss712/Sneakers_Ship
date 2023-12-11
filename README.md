@@ -7,13 +7,13 @@ MVVM architecture pattern and implemented in Kotlin.
 
 ## Screenshots
 
-<img src="https://github.com/imboss712/Sneakers_Ship/blob/master/screenshots/home.png">
+<img src="https://github.com/imboss712/Sneakers_Ship/blob/master/screenshots/home.png" width="250" height="500">
 
-<img src="https://github.com/imboss712/Sneakers_Ship/blob/master/screenshots/home_search.png">
+<img src="https://github.com/imboss712/Sneakers_Ship/blob/master/screenshots/home_search.png" width="250" height="500">
 
-<img src="https://github.com/imboss712/Sneakers_Ship/blob/master/screenshots/sneaker_detail.png">
+<img src="https://github.com/imboss712/Sneakers_Ship/blob/master/screenshots/sneaker_detail.png" width="250" height="500">
 
-<img src="https://github.com/imboss712/Sneakers_Ship/blob/master/screenshots/sneaker_cart.png">
+<img src="https://github.com/imboss712/Sneakers_Ship/blob/master/screenshots/sneaker_cart.png" width="250" height="500">
 
 ## Features
 
